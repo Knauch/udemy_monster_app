@@ -14,3 +14,10 @@ body {
     text-align: center;
   }
   
+  .app-title{
+    color: rgb(252, 252, 16);
+    margin-top: 60px;
+    margin-bottom: 40px;
+    font-size: 60px;
+    font-family: 'Tapestry';
+  }
